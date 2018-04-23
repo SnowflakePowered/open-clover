@@ -1,7 +1,7 @@
 # Open-Clover
 An Open Source Port of the SNES Classic Edition Front End Written With LÖVE
 
-## A Note From The Author
+## A Note From the Author
 This is my first time programming in lua and it certainly shows. If you have any suggestions for me on maintaing or writing better code, please, let me know.
 
 ## Getting Started
