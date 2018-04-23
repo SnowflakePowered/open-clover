@@ -1,6 +1,9 @@
 # Open-Clover
 An Open Source Port of the SNES Classic Edition Front End Written With LÖVE
 
+## A Note From The Author
+This is my first time programming in lua and it certainly shows. If you have any suggestions for me on maintaing or writing better code, please, let me know.
+
 ## Getting Started
 To run what I have so far, clone the repo, download the latest copy of LÖVE, making sure it version 11 or higher, and drag the repo folder into the LOVE executable.
 
